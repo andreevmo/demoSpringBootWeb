@@ -1,0 +1,10 @@
+h3 {
+  text-align: center;
+  font-size: 48px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
